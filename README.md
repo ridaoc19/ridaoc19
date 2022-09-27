@@ -1,3 +1,5 @@
+<img src="https://cdn.pixabay.com/photo/2015/08/27/09/22/banner-909710_960_720.jpg" alt="Hola"/>
+
 <h1 align="center">Hola 👋, soy Ricardo</h1>
 
 <h3 align="center">Soy colombiano, tengo 32 años, amante de la tecnología. Actualmente estoy enfocado en el desarrollo web full stack y aprender nuevas tecnologías. En el año 2021 descubrí mi pasión por la programación y decidí darle un cambio a mi vida, el 30 de septiembre del año 2022 logré obtener una certificación de full stack web develper y quiero compartir con ustedes mis habilidades.</h3>
