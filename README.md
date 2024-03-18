@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola 👋, soy Ricardo</h1>
 
-<h3 align="center">Soy colombiano, tengo 32 años, amante de la tecnología. Actualmente estoy enfocado en el desarrollo web full stack y aprender nuevas tecnologías. En el año 2021 descubrí mi pasión por la programación y decidí darle un cambio a mi vida, el 30 de septiembre del año 2022 logré obtener una certificación de full stack web develper y quiero compartir con ustedes mis habilidades.</h3>
+<h3 align="center">Actualmente estoy enfocado en el desarrollo web full stack y aprender nuevas tecnologías. En el año 2021 descubrí mi pasión por la programación y decidí darle un cambio a mi vida, el 30 de septiembre del año 2022 logré obtener una certificación de full stack web develper y quiero compartir con ustedes algunas de mis habilidades, mis practicas las realizo en el proyecto que puede obeservar en [https://github.com/ridaoc19/eCommerce_hilde](https://github.com/ridaoc19/eCommerce_hilde) y pueden verlo en produccion [https://e-commerce-hilde.vercel.app/](https://e-commerce-hilde.vercel.app/) .</h3>
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
